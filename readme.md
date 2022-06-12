@@ -13,9 +13,9 @@ Welcome to the user-guide-namita wiki!
 ## kinetic energy
 energy of moving objects
 https://github.com/mahatama1234/user-guide-namita/blob/main/Capture.PNG
-![abc](https://github.com/mahatama1234/user-guide-namita/blob/main/Capture.PNG)
+![abc](https://github.com/mahatama1234/user-guide-namita/blob/main/images/Capture.PNG)
 
-![namitasingh](https://github.com/mahatama1234/user-guide-namita/blob/main/Capture.PNG)
+![namitasingh](https://github.com/mahatama1234/user-guide-namita/blob/main/images/Capture.PNG)
 Table of content
 1. 1.[GitHub](#Github)
 1. 2.[DITA xml](#DITA-xml)
