@@ -13,7 +13,7 @@
 		* [Time scheduling](#Time-scheduling)
 		* [Remote connectivity](#Remote-connectivity)
 	* [Benefits of Building Management System](#Benefits-of-Building-Management-System)
-2. [Case study of Smart Building Technology](##Case-study-of-Smart-Building-Technology)
+2. [Case study of Smart Building Technology](#Case-study-of-Smart-Building-Technology)
 
 
 # Features you should know About Building Management System
