@@ -165,7 +165,7 @@ It Provides full system security.
 	* Due to controlling lighting, temperature, humidity, and other parameters and allowing for personalised comfort.
 In simple words, Building Management System delivers a comfortable and safe environment for your building by controlling.
 
-## Case study of Smart Building Technology
+# Case study of Smart Building Technology
 
 This is a case study of intelligent building, the Edge, Amsterdam. This building is a Smart Office. 
 Smart offices like the Edge in Amsterdam, Netherlands, regulate building operations as per workers’ needs. It enhances employee satisfaction and productivity. 
