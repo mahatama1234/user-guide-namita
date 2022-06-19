@@ -1,5 +1,5 @@
 # Table of content
-1. [Kopia - Fast and Secure Open-Source Backup](#Kopia-Fast-and-Secure-Open-Source-Backup)
+1. [Kopia - Fast and Secure Open-Source Backup](#Kopia---Fast-and-Secure-Open-Source-Backup)
 	* [Command Line Interface (CLI)](#Command-Line-Interface-(CLI))
 	* [Graphical User Interface (GUI)](#Graphical-User-Interface-(GUI))
 	* [Repository](#Repository)
