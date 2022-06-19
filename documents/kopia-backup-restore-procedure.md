@@ -1,5 +1,5 @@
 # Table of content
-1. [Kopia: Fast and Secure Open-Source Backup](#Kopia:-Fast-and-Secure-Open-Source-Backup)
+1. [Kopia - Fast and Secure Open-Source Backup](#Kopia-Fast-and-Secure-Open-Source-Backup)
 	* [Command Line Interface (CLI)](#Command-Line-Interface-(CLI))
 	* [Graphical User Interface (GUI)](#Graphical-User-Interface-(GUI))
 	* [Repository](#Repository)
@@ -19,7 +19,7 @@
 7. [Disclaimer](#Disclaimer)
 
 
-# Kopia: Fast and Secure Open-Source Backup
+# Kopia - Fast and Secure Open-Source Backup
 
 Kopia is a reliable application for creating backups of your data at any location of your choice. Restoration of the backups is an easy process with Kopia. It manages the versioning of the stored files.
 
