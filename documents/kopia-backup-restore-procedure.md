@@ -153,7 +153,7 @@ Policies can be applied to:
 * Once Snapshot is successful --> check the Kopia Repository folder
 [NOTE: You will see multiple folders containing encrypted files storing the backup of your data]
 
- ![Kopia snapshot completed](/images/kopia-Snapshot-completed.png)
+ ![Kopia snapshot completed](/images/kopia-snapshot-completed.png)
 
 * You can also browse through the snapshot --> to check what all folder/files have been backup
 
