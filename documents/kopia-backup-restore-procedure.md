@@ -1,7 +1,7 @@
 # Table of content
 1. [Kopia - Fast and Secure Open-Source Backup](#Kopia---Fast-and-Secure-Open-Source-Backup)
-	* [Command Line Interface (CLI)](#Command-Line-Interface-(CLI))
-	* [Graphical User Interface (GUI)](#Graphical-User-Interface-(GUI))
+	* [Command Line Interface (CLI)](#command-line-interface-cli)
+	* [Graphical User Interface (GUI)](#Graphical-User-Interface-GUI)
 	* [Repository](#Repository)
 	* [About Snapshot](#About-Snapshot)
 2. [How to take Backups with Kopia](#How-to-take-Backups-with-Kopia)
