@@ -60,50 +60,50 @@ Please find the documentaion link for the installation https://kopia.io/docs/ins
 
 ### Creation of Repository
 * This is the place where your backups will be saved at.
-* Open Kopia application >> Filesystem >> Directory path
-* Open Kopia application -->This is the starting window
+* Open **Kopia application** >> **Filesystem** >> **Directory path**
+* Open **Kopia** application -->This is the starting window
  
 ![Kopia Landing Page](/images/kopia-landing-screen.png)
 
-* Select the preferred storage type
-[Note: Here we choose Filesystem as a storage type]
-* A storage configuration window will open
-[It is asking for a path to a directory where to store repository files]
+* Select the preferred **storage type**
+[Note: Here we choose **Filesystem** as a storage type]
+* A **storage configuration** window will open
+[It is asking for a **path to a directory** where to store repository files]
 
 ![Kopia Storage Configuration](/images/kopia-storage-configuration.png)
 
 To know more about Kopia Repositories, click on the link https://kopia.io/docs/repositories/
 
 ### Creation of directory path
-* Go to your preferred location in your Filesystem
-* Create a folder with the name of your choice
+* Go to your preferred location in your **Filesystem**
+* Create a **folder** with the name of your choice
 [The directory path has been created successfully]
-* Copy the URL of the newly created folder
-* Paste the URL at the directory path on the storage configuration page in KopiaUI.
-* Click on the Next button.
+* Copy the **URL** of the newly created folder
+* Paste the **URL** at the directory path on the storage configuration page in KopiaUI.
+* Click on the **Next** button.
 
 ![Kopia Storage Configuration Path](/images/kopia-storage-configuration-path.png)
 
-* It will take you to a new Connect To Repository window.
-* Create a repository password to connect.
-[NOTE: Your password is important! If you lose it, you won't be able to access data stored in the repository]
+* It will take you to a new **Connect To Repository** window.
+* Create a repository **password** to connect.
+[**NOTE**: Your **password** is important! If you lose it, you won't be able to access data stored in the repository]
 
 ![Kopia Connect Repository](/images/kopia-connect-to-repository.png)
 
-* In the Connect to Repository window, click Show Advanced Options
-* In the Show Advanced Options drop-down menu, select mode, username and hostname.
+* In the **Connect to Repository** window, click **Show Advanced Options**
+* In the Show Advanced Options **drop-down** menu, select **mode**, **username** and **hostname**.
 [Note: use this option, if there are multiple users]
  
 ![Kopia Connect Repository Options](/images/kopia-connect-to-repository-options.png)
 
-* Click Connect to Repository button.
+* Click **Connect to Repository** button.
 [NOTE: Once connected, you will be redirected to the Snapshots screen]
 
 ![Kopia New Snapshot](/images/kopia-snapshot-landing-page.png)
  
 * Options available on the snapshot screen
-	* Choose the type of snapshot you need
-[Note- Two types of Snapshots are available- Local snapshot & ALL Snapshot]
+	* Choose the type of **snapshot** you need
+[**Note**- Two types of Snapshots are available- **Local snapshot** & **ALL Snapshot**]
 	* New Snapshot option, to Create a new snapshot for backup.
 	* Command line option
 [Note- Users can track the Kopia command from here. 
@@ -114,12 +114,12 @@ See the example below]
 Now we're ready to back up some data. The contents of a directory at a specific point in time is called a "snapshot" in Kopia.
 
 ## Creating Snapshots
-* Click on the New Snapshot tab.
-* New Snapshot window gets open.
+* Click on the **New Snapshot tab**.
+* **New Snapshot** window gets open.
 
 ![Kopia New Snapshot](/images/kopia-new-snapshot-screen.png)
 
-  [Note: Policy for snapshot can be set here]
+  [**Note**: **Policy** for snapshot can be set here]
 
 Policies can be used to define:
 
